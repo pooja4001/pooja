@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="BackGroundVerification/.mvn/wrapper"/>
+	<classpathentry kind="src" path="BackGroundVerification/src/main/java"/>
+	<classpathentry kind="src" path="BackGroundVerification/src/test/java"/>
+	<classpathentry kind="src" path="ConfigServerBackgroundVerification/.mvn/wrapper"/>
+	<classpathentry kind="src" path="ConfigServerBackgroundVerification/src/main/java"/>
+	<classpathentry kind="src" path="ConfigServerBackgroundVerification/src/test/java"/>
+	<classpathentry kind="src" path="EurekaServerBackgroundVerification/.mvn/wrapper"/>
+	<classpathentry kind="src" path="EurekaServerBackgroundVerification/src/main/java"/>
+	<classpathentry kind="src" path="EurekaServerBackgroundVerification/src/test/java"/>
+	<classpathentry kind="src" path="Files-Service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Files-Service/src/main/java"/>
+	<classpathentry kind="src" path="Files-Service/src/test/java"/>
+	<classpathentry kind="src" path="Verification-Service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Verification-Service/src/main/java"/>
+	<classpathentry kind="src" path="Verification-Service/src/test/java"/>
+	<classpathentry kind="lib" path="BackGroundVerification/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
